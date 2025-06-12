@@ -1,0 +1,9 @@
+1237 Tutor Exilius - - - - - m - - tutorexilius@gmail.com
+2 Nazim Kaya - - - - - m - - admin@exilius.de
+3 Stefan Draser 01.01.1980 - - 10115 Berlin m - - -
+4 Martin Freihaus 13.05.1979 Goethestraße 12 50668 Köln m 022112367890 01751234567890 martin.freihaus@demomail.dm
+5 Peter Walter 01.01.1965 - - 20095 Hamburg m 04012367890 - peter.walter@demomail.dm
+6 Franziska Costa 01.01.1968 Beethovenstraße 35 60311 Frankfurt w 06912367890 01501234567890 franziska.costa@demomail.dm
+7 John Brown - Beethovenstraße 35 80331 München m - 01759876543210 john.brown@demomail.dm
+8 Mehmet Weber 01.01.1965 Beethovenstraße 35 04103 Leipzig m 034112367890 - mehmet.weber@demomail.dm
+9 Pascal Schneider - - - - - x - - pascal.schneider@demomail.dm
