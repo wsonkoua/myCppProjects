@@ -4,7 +4,7 @@
 //
 //  Created by Walter Djeutsop on 20.06.23.
 //
-#include "thread_synchronizer.h"
+#include <thread_synchroniser/thread_synchroniser.h>
 #include <gtest/gtest.h>
 
 // mutex used to avoid data race when displaying current thread state

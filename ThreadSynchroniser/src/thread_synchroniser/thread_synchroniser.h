@@ -5,12 +5,11 @@
 //  Created by Walter Djeutsop on 20.06.23.
 //
 
-#ifndef thread_synchronizer_h
-#define thread_synchronizer_h
+#pragma once
 
 #include <iostream>
 #include <thread>
-#include <pthread.h>
+//#include <pthread.h>
 #include <mutex>
 #include <condition_variable>
 #include <vector>
@@ -67,4 +66,3 @@ private:
     bool errorCountDownFlag_{false};
 };
 
-#endif /* thread_synchronizer_h */

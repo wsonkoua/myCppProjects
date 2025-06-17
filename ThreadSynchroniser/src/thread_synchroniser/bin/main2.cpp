@@ -5,7 +5,7 @@
 //  Created by Walter Djeutsop on 19.06.23.
 //
 
-#include "gtest/gtest.h"
+#include gtest/gtest.h"
 
 #include "thread_synchronizer.h"
 
