@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 3.25.2)
+cmake_minimum_required (VERSION 3.19.1)
 
 project(thread_synchroniser
 	VERSION 1.0
@@ -14,7 +14,7 @@ include(FetchContent)
 FetchContent_Declare(
   googletest
   GIT_REPOSITORY https://github.com/google/googletest.git
-  GIT_TAG        v1.15.2
+  GIT_TAG        v1.17.0
 )
 
 # For Windows: Prevent overriding the parent project's compiler/linker settings
@@ -70,7 +70,7 @@ target_include_directories (thread_synchroniser_exe PUBLIC
   src/ext
 )
 
-#option(thread_synchroniser_TEST_SOURCE "Enable tests" OFF)
+option(thread_synchroniser_TEST_SOURCE "Enable tests" ON)
 
 
 
